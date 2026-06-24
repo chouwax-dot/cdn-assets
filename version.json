@@ -1,5 +1,5 @@
 {
-    "version": "1.0.8",
+    "version": "1.0.9",
     "zip_url": "https://raw.githubusercontent.com/chouwax-dot/cdn-assets/main/bot.zip",
-    "changelog": "Fix du bug recherche de monstre qui déconnait quand il y avait une personne + ajout système pour que le bot prend le groupe le plus proche de lui"
+    "changelog": "Nerf macro prise en compte avec le clic droit"
 }
